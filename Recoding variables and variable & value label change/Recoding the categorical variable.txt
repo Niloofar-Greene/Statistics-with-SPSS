@@ -1,6 +1,0 @@
-Recoding the categorical variable Using SPSS menu:
-
-Transform --> Recode into Same Variables --> Drag the variable you want to recode into Numeric Variable window --> Give it a name under Output Variable section under Name --> Click on Change --> 
-Press Old and new variable --> Fill in the Old value and New value values --> Add it to the pannel --> Continue 
-
-Retalted syntaxes are stored in "Recoding categorical variables.sps"
