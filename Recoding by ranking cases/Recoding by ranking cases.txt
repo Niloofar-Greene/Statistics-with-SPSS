@@ -1,6 +1,0 @@
-Recoding by ranking cases Using SPSS menu:
-
-Transform → Rank cases --> drag the variable you wanna rank in variables box
-It creates a new variable in the data set
-
-Retalted syntaxes are stored in "RankingCases.sps"
